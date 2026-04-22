@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni9601.ss01" format="2">
+  <advance width="1024" />
+  <outline>
+    <component base="py_alphablet_g" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="212" yOffset="939" />
+    <component base="py_alphablet_e1" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="511" yOffset="939" />
+    <component base="uni9601.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
+  </outline>
+</glyph>

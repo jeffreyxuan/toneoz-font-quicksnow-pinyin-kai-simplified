@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni54CD" format="2">
+  <unicode hex="54CD" />
+  <advance width="1307" />
+  <outline>
+    <component base="py_alphablet_x" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="30" yOffset="939" />
+    <component base="py_alphablet_i" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="266" yOffset="939" />
+    <component base="py_alphablet_a3" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="360" yOffset="939" />
+    <component base="py_alphablet_n" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="661" yOffset="939" />
+    <component base="py_alphablet_g" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="947" yOffset="939" />
+    <component base="uni54CD.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="141" yOffset="0" />
+  </outline>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4EBA.ss00" format="2">
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="462" y="426" type="qcurve" />
+      <point x="480" y="393" />
+      <point x="575" y="262" type="qcurve" />
+      <point x="666" y="141" />
+      <point x="733" y="71" type="qcurve" />
+      <point x="764" y="37" />
+      <point x="793" y="39" type="qcurve" />
+      <point x="881" y="45" />
+      <point x="958" y="49" type="qcurve" />
+      <point x="991" y="50" />
+      <point x="992" y="59" type="qcurve" />
+      <point x="993" y="68" />
+      <point x="956" y="82" type="qcurve" />
+      <point x="772" y="148" />
+      <point x="740" y="175" type="qcurve" />
+      <point x="617" y="274" />
+      <point x="490" y="436" type="qcurve" />
+      <point x="481" y="446" />
+      <point x="475" y="455" type="qcurve" />
+      <point x="547" y="623" />
+      <point x="563" y="653" type="qcurve" />
+      <point x="573" y="665" />
+      <point x="565" y="678" type="qcurve" />
+      <point x="558" y="691" />
+      <point x="519" y="712" type="qcurve" />
+      <point x="491" y="727" />
+      <point x="480" y="724" type="qcurve" />
+      <point x="462" y="720" />
+      <point x="465" y="700" type="qcurve" />
+      <point x="484" y="507" />
+      <point x="292" y="278" type="qcurve" />
+      <point x="280" y="266" />
+      <point x="269" y="254" type="qcurve" />
+      <point x="212" y="187" />
+      <point x="68" y="72" type="qcurve" />
+      <point x="58" y="62" />
+      <point x="66" y="59" type="qcurve" />
+      <point x="76" y="56" />
+      <point x="90" y="62" type="qcurve" />
+      <point x="190" y="108" />
+      <point x="274" y="180" type="qcurve" />
+      <point x="380" y="264" />
+    </contour>
+  </outline>
+</glyph>

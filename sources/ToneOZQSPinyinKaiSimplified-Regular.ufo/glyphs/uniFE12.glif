@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE12" format="2">
+  <unicode hex="FE12" />
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="839" y="599" />
+      <point x="888" y="648" />
+      <point x="888" y="719" />
+      <point x="839" y="768" />
+      <point x="768" y="768" />
+      <point x="718" y="719" />
+      <point x="718" y="648" />
+      <point x="768" y="599" />
+    </contour>
+    <contour>
+      <point x="906" y="785" />
+      <point x="943" y="722" />
+      <point x="943" y="645" />
+      <point x="905" y="582" />
+      <point x="842" y="544" />
+      <point x="765" y="544" />
+      <point x="700" y="582" />
+      <point x="663" y="645" />
+      <point x="663" y="722" />
+      <point x="701" y="785" />
+      <point x="767" y="823" />
+      <point x="844" y="823" />
+    </contour>
+  </outline>
+</glyph>

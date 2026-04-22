@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8F7C" format="2">
+  <unicode hex="8F7C" />
+  <advance width="1024" />
+  <outline>
+    <component base="py_alphablet_s" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="200" yOffset="939" />
+    <component base="py_alphablet_h" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="428" yOffset="939" />
+    <component base="py_alphablet_i4" xScale="0.5260009765625" xyScale="0" yxScale="0" yScale="0.5269775390625" xOffset="709" yOffset="939" />
+    <component base="uni8F7C.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.full.vert" format="2">
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="962" y="896" type="line" />
+      <point x="962" y="907" />
+      <point x="982" y="919" />
+      <point x="1008" y="919" />
+      <point x="1028" y="907" />
+      <point x="1028" y="896" type="qcurve" />
+      <point x="1028" y="-118" type="line" />
+      <point x="1028" y="-129" />
+      <point x="1007" y="-141" />
+      <point x="982" y="-141" />
+      <point x="962" y="-129" />
+      <point x="962" y="-118" type="qcurve" />
+    </contour>
+  </outline>
+</glyph>
